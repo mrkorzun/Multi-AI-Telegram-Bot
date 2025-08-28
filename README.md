@@ -18,6 +18,7 @@
 - python-dotenv
 
 ## 📁 Структура (пример)
+```text
 .
 ├── app/
 │   ├── models/
@@ -39,18 +40,25 @@
 ├── .gitignore
 ├── LICENSE
 └── README.md
+```
 
 ## 🚀 Быстрый старт
 1) Установить зависимости:
+```bash
 python -m venv .venv && . .venv/bin/activate  # Windows: .venv\Scripts\activate
 pip install -r requirements.txt
+```
 
-2) Создать .env на основе примера:
+3) Создать .env на основе примера:
+```bash
 cp .env.example .env
+```
 # вставьте TG_TOKEN и AI_TOKEN
 
 3) Запуск:
+```bash
 python main.py
+```
 
 ## ⚙️ Переменные окружения
 - TG_TOKEN — токен Telegram-бота.
