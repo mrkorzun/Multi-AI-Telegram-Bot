@@ -5,6 +5,8 @@
 ![aiogram](https://img.shields.io/badge/aiogram-v3-informational)
 ![OpenRouter](https://img.shields.io/badge/OpenRouter-API-success)
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow)
+![views](https://visitor-badge.laobi.icu/badge?page_id=mrkorzun.multi-ai-telegram-bot&left_text=views)
+
 
 Multi-AI Telegram Bot — это хаб ИИ-ассистентов в Telegram с выбором модели через OpenRouter.
 Из коробки доступны Llama / DeepSeek / Claude / Grok, у каждой — собственное приветствие и позиционирование.
